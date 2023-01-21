@@ -6,7 +6,7 @@
     {
         "psr-4":
         {
-            "IoJaegers\\OceanCms\\": "src/"
+            "IoJaegers\\OceanCms\\": "code/src/"
         }
     },
     "authors":
